@@ -1,0 +1,27 @@
+{
+  "prefix": ".",
+  "token": "BOT TOKEN",
+  "sahip": "İDNİZ",
+  
+  "durum": "BOT DURUM",
+  "botses": "BOTU SESE SOKMAK İÇİN",
+  
+  "susturulmuş":"MUTE ROL İD",
+  "cezalı":"CEZALI ROL İD", 
+ 
+  "banyetkili":"BAN YETKİLİ İD",
+  "jailyetkili":"JAİL YETKİLİ İD",
+  "muteyetkili":"MUTE YETKİLİ İD",
+  
+  "mutelog":"MUTE LOG KANAL İD",
+  "banlog":"BAN LOG KANAL İD",
+  "jaillog":"JAİL LOG KANAL İD",
+  "sikayet":"ŞİKAYET KANALI İD",
+  
+  "erkekrol1":"ERKEK ROL 1 İD",
+  "erkekrol2":"ERKEK ROL 2 İD",
+  "kızrol1":"KIZ ROL 1 İD",
+  "kızrol2":"KIZ ROL 2 İD",
+
+  "tag":"TAGINIZ!"
+}
